@@ -13,7 +13,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
-
+//email:wahidmurad@gmail.com
+//password:123456  
   @override
   State<LoginPage> createState() => _LoginPageState();
 }
