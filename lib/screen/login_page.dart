@@ -104,3 +104,6 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 }
+
+//email:wahidmurad@gmail.com
+//password:123456  
